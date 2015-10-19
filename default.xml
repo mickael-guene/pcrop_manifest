@@ -10,6 +10,6 @@
   <project name="mickael-guene/mpc" path="scratch/mpc" revision="34052f5f589cf72c59456b88f88f708419bfa68e" upstream="mpc-1.0.2"/>
   <project name="mickael-guene/mpfr" path="scratch/mpfr" revision="d3ab20390a04efa0288e7f4ee3c2725b139e957c" upstream="mpfr-3.1.2"/>
   <project name="mickael-guene/newlib" path="scratch/newlib" revision="e7b334f4a38868ad42148b0cf9f149c42c1c135d" upstream="newlib-2.2.0-1"/>
-  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="9e49dd97ddb79011705359fed022a0d830d3b6a9" upstream="master"/>
+  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="ec01c72b3cec755c1981e7693f9b7533cb92fe9e" upstream="master"/>
 </manifest>
 
