@@ -10,7 +10,7 @@
   <project name="mickael-guene/mpc" path="scratch/mpc" revision="mpc-1.0.2"/>
   <project name="mickael-guene/mpfr" path="scratch/mpfr" revision="mpfr-3.1.2"/>
   <project name="mickael-guene/newlib" path="scratch/newlib" revision="newlib-2.2.0-1-pcrop"/>
-  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="master"/>
+  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="master-v7"/>
   <project name="mickael-guene/pcrop_test" path="scratch/test" revision="master"/>
 
 </manifest>
