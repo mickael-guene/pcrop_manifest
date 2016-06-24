@@ -4,13 +4,13 @@
   
   <default remote="github" revision="master"/>
   
-  <project name="mickael-guene/binutils" path="scratch/binutils" revision="bc34b85387ad46dffd140f2f8b0b6268a070999f" upstream="binutils-2.25.1-pcrop"/>
-  <project name="mickael-guene/gcc" path="scratch/gcc" revision="1b2ed0b928f18b9c5fdf0739c84498e26153c868" upstream="gcc-5.2.0-pcrop"/>
+  <project name="mickael-guene/binutils" path="scratch/binutils" revision="b0a5e46ae40c7cea4b2e0c448a8bf44a2edc0cbf" upstream="binutils-2.25.1-pcrop"/>
+  <project name="mickael-guene/gcc" path="scratch/gcc" revision="ebb03d80043fc58e0a4503fdefe49b97bfe3e11b" upstream="gcc-5.2.0-pcrop"/>
   <project name="mickael-guene/gmp" path="scratch/gmp" revision="c51be377208b2c963cdce2eff4566cede5ccf1f2" upstream="gmp-6.0.0a"/>
   <project name="mickael-guene/mpc" path="scratch/mpc" revision="34052f5f589cf72c59456b88f88f708419bfa68e" upstream="mpc-1.0.2"/>
   <project name="mickael-guene/mpfr" path="scratch/mpfr" revision="d3ab20390a04efa0288e7f4ee3c2725b139e957c" upstream="mpfr-3.1.2"/>
   <project name="mickael-guene/newlib" path="scratch/newlib" revision="c4cf1cfaf64d07a2caf99b4a390073330f0408d6" upstream="newlib-2.2.0-1-pcrop"/>
-  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="034ba9fa5791a53a96e69e50f8e84e2cf3616ded" upstream="master"/>
+  <project name="mickael-guene/pcrop_build" path="scratch/build" revision="854f0c3b8f214a4f725fbc43e65c600cf625b159" upstream="master"/>
   <project name="mickael-guene/pcrop_test" path="scratch/test" revision="66d5a9f32b596379c7dd59faea34277a90e3bec2" upstream="master"/>
   <project name="mickael-guene/pcrop_variant" path="scratch/variant" revision="06c0796aa974595e71b065f718d08a3efc0acdfa" upstream="armv6s-m"/>
 </manifest>
